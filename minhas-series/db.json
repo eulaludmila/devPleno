@@ -1,0 +1,61 @@
+{
+  "series": {
+    "1": {
+      "name": "La casa de papel",
+      "status": "WATCHED",
+      "genre_id": 2,
+      "comments": "Adorei",
+      "poster": "//image.tmdb.org/t/p/original/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg",
+      "background": "//image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg"
+    },
+    "1619723824616": {
+      "name": "Quem matou sara?",
+      "status": "ASSISTIDO",
+      "genre_id": 1619373291753,
+      "comments": "Adorei",
+      "poster": "//image.tmdb.org/t/p/original/5BYyTmEqkYXIgdDPyEiAeAbhIsI.jpg",
+      "background": "//image.tmdb.org/t/p/original/pLG4ihU1d2XkQbASQDjsFu9U7d9.jpg"
+    },
+    "1619789035731": {
+      "name": "Como defender um assassino?",
+      "status": "ASSISTIDO",
+      "genre_id": 1619373291753,
+      "comments": "",
+      "poster": "//image.tmdb.org/t/p/original/sohKB3pnzq6iWOgLVxk8mpCFgTO.jpg",
+      "background": "//image.tmdb.org/t/p/original/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg"
+    },
+    "1619791048818": {
+      "name": "Naruto",
+      "genre_id": "1619373263042",
+      "poster": "//image.tmdb.org/t/p/original/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg",
+      "background": "//image.tmdb.org/t/p/original/zLTfRrrVXNW3OWUk6U1eFZhB18m.jpg"
+    }
+  },
+  "genres": {
+    "1": {
+      "name": "Ação"
+    },
+    "2": {
+      "name": "Comédia"
+    },
+    "1619372889675": {
+      "name": "Romace"
+    },
+    "1619373197519": {
+      "name": "Terror"
+    },
+    "1619373263042": {
+      "name": "Aventura"
+    },
+    "1619373291753": {
+      "name": "Suspense"
+    },
+    "1619373413451": {
+      "name": "Assalto"
+    },
+    "1619373446528": {
+      "name": "Musical"
+    }
+  },
+  "count": 0
+}
